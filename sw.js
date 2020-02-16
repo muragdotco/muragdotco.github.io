@@ -8,7 +8,7 @@ AMP_SW.init({
     }
   ],
   offlinePageOptions: {
-    url: "{{g.url('/root/offline.html').path}}",
+    url: "/offline.html",
     assets: []
   }
 });
