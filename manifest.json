@@ -1,8 +1,22 @@
 {
-  "name": "{{title}}",
-  "short_name": "{{short_title}}",
-  "start_url": "{{site_url}}",
+  "name": "MURAG. Makes a difference.",
+  "short_name": "Murag",
+  "description": "Dari t-shirt keren hingga tas yang ekslusif, MURAG hadir untuk membuat tampilan #hangoutfit-mu menjadi lebih gaya dan berbeda.",
+  "lang": "id",
+  "start_url": "/?utm_source=a2hs",
   "display": "standalone",
-  "background_color": "#192939",
-  "description": "{{desc}}"
+  "orientation": "portrait",
+  "theme_color": "#192939",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
