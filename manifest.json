@@ -6,6 +6,7 @@
   "start_url": "/?utm_source=a2hs",
   "display": "standalone",
   "orientation": "portrait",
+  "background_color": "#ffec3c",
   "theme_color": "#192939",
   "icons": [
     {
